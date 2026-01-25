@@ -7,5 +7,5 @@ After reading the instructions, update the information below as directed.
 
 Name: Cody Shouse
 Course: INFOTC 4405 / CMP_SC 4405
-Section: Mon/Wen/Fri 10AM
+Section: In Person 
 Semester: Spring 2026
